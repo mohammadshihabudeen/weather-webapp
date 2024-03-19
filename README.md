@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+
+<img width="168" alt="image" src="https://github.com/mohammadshihabudeen/weather-webapp/assets/116706130/5b200bb7-61a3-4c79-b7cf-bcaca254aedd">
+
+# Getting Started with Weather React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
