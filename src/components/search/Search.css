@@ -1,0 +1,27 @@
+.searchBox{
+    background-color: rgb(75, 73, 73) !important;
+    box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 30%);
+    border-radius: 6px;
+}
+
+.searchBox:focus{
+    background-color: rgb(75, 73, 73) !important;
+    box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 30%);
+    border-radius: 6px;
+}
+.css-t3ipsp-control{
+    background-color: rgb(75, 73, 73) !important;
+    color: white !important;
+}
+.css-13cymwt-control ,.css-1fdsijx-ValueContainer,.css-1fdsijx-ValueContainer input{
+    background-color: rgb(75, 73, 73) !important;
+    color: white !important;
+}
+.css-qbdosj-Input input{
+    color: white !important;
+    padding-left: 0px;
+}
+.css-1dimb5e-singleValue{
+    color: white !important;
+    z-index: 999;
+}
